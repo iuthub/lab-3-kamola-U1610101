@@ -1,0 +1,40 @@
+.general{
+	border: 10px solid white;
+	background-color: white; 
+	margin-left: 10vw;
+	margin-right: 10vw;
+}
+.header
+{
+	border: 5px solid #A8F0F0;
+	background-color: #A8F0F0;
+	text-align: right;
+}
+.motto
+{
+	border: 5px solid #A8F0F0;
+}
+span{border-bottom: 2px dashed #009097;
+ }
+.content
+{
+	border: 4px solid #C2E9E9;
+	background-color: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
+    overflow: auto;
+    clear: right;
+}
+body{
+	background: url("images/bg.jpg") center no-repeat;
+}
+img{
+	float: right;
+}
+.friends{
+	margin: 10px;
+	margin-bottom: 100vw;
+	border: 5px solid #1a8cff;
+	background-color: #A8F0F0;
+	float: left;
+}
